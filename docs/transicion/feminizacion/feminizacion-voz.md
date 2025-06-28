@@ -25,6 +25,10 @@
 
 ## Aplicaciones y Páginas Web Útiles
 
+### Voice Resource Project
+* Recolección de recursos para ayudar a entrenar la voz. En inglés.
+  * Web: https://wiki.sumianvoice.com/
+
 ### Friture
 * PC: http://friture.org/
 
