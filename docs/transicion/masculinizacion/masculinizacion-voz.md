@@ -18,8 +18,12 @@ _Sin información disponible._
 
 ## Aplicaciones y Páginas Web Útiles
 
+### Voice Resource Project
+* Recolección de recursos para ayudar a entrenar la voz. En inglés.
+  * Web: https://wiki.sumianvoice.com/
+
 ### Friture
-* PC: http://friture.org/
+* Web: http://friture.org/
 
 ### Voice Pitch Analyzer
 * Android: https://play.google.com/store/apps/details?id=de.lilithwittmann.voicepitchanalyzer
